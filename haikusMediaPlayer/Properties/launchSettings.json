@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "haikusMediaPlayer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "haikusMediaPlayer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
