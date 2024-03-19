@@ -9,6 +9,9 @@
 > [!NOTE]
 > This program is WIP, some of my code sucks and some features are lacking.
 
+## 🔽Download Here
+[Latest Release](https://github.com/haiku-balls/haikusMediaPlayer/releases/latest)
+
 ## ❓Why?
 I wanted a simple media player that looks appealing. WinUI was up to the task and developing it with a simplistic mindset allowed me to imagine this program.
 
